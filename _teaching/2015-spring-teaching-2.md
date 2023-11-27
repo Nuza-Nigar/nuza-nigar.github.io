@@ -1,7 +1,7 @@
 ---
 title: "My LinkedIn Articles"
 collection: teaching
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2015-spring-teaching-2.md
 ---
 
 ## Solar Sojourn: The Aditya L1 Odyssey
