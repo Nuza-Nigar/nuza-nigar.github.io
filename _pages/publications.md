@@ -30,6 +30,7 @@ author_profile: true
 ## Technical Reports
 
 1. **Aeroacoustics Simulation of a Fan Inside an Outdoor Air Conditioner Unit using Cradle CFD and Actran**
+   <img src="image-url" alt="Image 1" align="right">
    - *Authors:* <span style="color: purple;">N. Nigar</span>
    - *Year:* 2023
    - *Link:* [Report Link](link-to-report)
