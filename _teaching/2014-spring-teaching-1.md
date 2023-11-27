@@ -4,7 +4,7 @@ collection: teaching
 permalink: /teaching/2014-spring-teaching-1
 ---
 
-![Cradle CFD](/images/Cradle_CFD_C016B_01.png)
+<img src="/images/Cradle_CFD_C016B_01.png" alt="Alt Text" width="150" height="200">
 
 
 ## Electronics Thermal Management
