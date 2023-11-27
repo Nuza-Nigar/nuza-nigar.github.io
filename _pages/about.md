@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Who am I"
+title: "My Journey through CFD"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
