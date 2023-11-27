@@ -17,24 +17,12 @@ Currently, I play a pivotal role at Hexagon Manufacturing Intelligence, where I 
 
 But that's not all! I've had the honor of being part of impactful research internships, collaborating on projects that fine-tuned aerodynamics for NASA. And those findings? They've journeyed far and wide, showcased at international conferences where I've shared insights spanning the fascinating realms of aerodynamics and thermo-fluid structure interactions.
 
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6976578107050770432?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 My toolkit? Well, it's packed with expertise in ANSYS, Cradle CFD, FORTRAN, LaTeX, and more. These tools have been instrumental in shaping my academic achievements and earning prestigious accolades that underscore my commitment to propelling the frontiers of Computational Fluid Dynamics.
 
 My journey embodies a passion for excellence, an unyielding pursuit of innovation, and a dedication to push beyond the known boundaries in the world of Computational Fluid Dynamics.
 
 Ready to dive deeper into this exhilarating world with me? Feel free to explore more about my work, experiences, and the captivating realm of fluid dynamics right here on my website! 
 
-## LinkedIn Embedded Posts
 
-<div style="float: right; margin-left: 20px;">
-  <script src="https://platform.linkedin.com/in.js" type="text/javascript">
-    lang: en_US
-  </script>
-  <script type="IN/EmbeddedPost" data-id="6976578114235629568"></script>
-</div>
-
-<div style="float: right;">
-  <script src="https://platform.linkedin.com/in.js" type="text/javascript">
-    lang: en_US
-  </script>
-  <script type="IN/EmbeddedPost" data-id="post2"></script>
-</div>
