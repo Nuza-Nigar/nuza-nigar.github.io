@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Navigating Fluid Frontiers: Nuza Nigar's Journey in Computational Fluid Dynamics"
+title: "Nuza Nigar's Journey in Computational Fluid Dynamics"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-# CFD
----
 
-<kbd style="font-size: 2em; padding: 0.5em 1em; border: 2px solid #000; border-radius: 5px;">CFD</kbd>
+<kbd style="font-size: 2em; padding: 0.5em 1em; border: 2px solid #000; border-radius: 5px;">Navigating Fluid Frontiers</kbd>
 
 👋 Hello there and a warm welcome to my corner of the web!
 
