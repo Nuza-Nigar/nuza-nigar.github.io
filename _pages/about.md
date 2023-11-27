@@ -29,7 +29,7 @@ Ready to dive deeper into this exhilarating world with me? Feel free to explore 
   <script src="https://platform.linkedin.com/in.js" type="text/javascript">
     lang: en_US
   </script>
-  <script type="IN/EmbeddedPost" data-id="6976578114235629568-r5GF/?utm_source=share&utm_medium=member_desktop"></script>
+  <script type="IN/EmbeddedPost" data-id="6976578114235629568"></script>
 </div>
 
 <div style="float: right;">
