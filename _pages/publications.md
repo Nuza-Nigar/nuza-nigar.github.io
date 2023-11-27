@@ -29,12 +29,23 @@ author_profile: true
 
 ## Technical Reports
 
-1. **Title of Technical Report 1**
-   - *Authors:* [Author 1](link-to-author-profile), [Author 2](link-to-author-profile)
-   - *Year:* 20XX
+1. **Aeroacoustics Simulation of a Fan Inside an Outdoor Air Conditioner Unit using Cradle CFD and Actran**
+   - *Authors:* <span style="color: purple;">[N. Nigar](link-to-author-profile)</span>
+   - *Year:* 2023
    - *Link:* [Report Link](link-to-report)
 
-2. **Title of Technical Report 2**
-   - *Authors:* [Author 1](link-to-author-profile), [Author 2](link-to-author-profile)
-   - *Year:* 20XX
+2. **ADAMS-scFLOW CoSimulation of a Wheel to Study the Behavior of an Amphibious Vehicle**
+   - *Authors:* <span style="color: purple;">[N. Nigar](link-to-author-profile)</span>
+   - *Year:* 2022
    - *Link:* [Report Link](link-to-report)
+
+3. **Aerodynamics of a Solar Panel to Study the Pressure Developed on the Fourteen Sections of the Module**
+   - *Authors:* <span style="color: purple;">[N. Nigar](link-to-author-profile)</span>
+   - *Year:* 2023
+   - *Link:* [Report Link](link-to-report)
+
+4. **Parameter Study of Transonic Flutter Analysis on the NASA Benchmark Supercritical Wing**
+   - *Authors:* <span style="color: purple;">[N. Nigar](link-to-author-profile)</span>
+   - *Institution:* University of Petroleum and Energy Studies, Dehradun, India
+   - *Year:* 2022
+
