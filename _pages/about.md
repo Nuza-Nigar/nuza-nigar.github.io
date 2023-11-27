@@ -1,5 +1,6 @@
+---
 permalink: /
-title: "Nuza Nigar's Journey in Computational Fluid Dynamics"
+title: "My journey through CFD"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
