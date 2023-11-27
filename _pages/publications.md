@@ -30,7 +30,16 @@ author_profile: true
            V. Palahalli, G. Pawar, <span class="author"><strong>N. Nigar</strong></span>, T. Praphul, Numerical Investigation to study the effects of wing flexibility on the store trajectory using MSC CoSim, 9th International and 49th National Conference on Fluid Mechanics and Fluid Power, Roorkee, India (2022)
             [<a href="files/FMFP2022_paper_5139.pdf" target="_blank">PDF</a>]
         </li>
- <title>Technical Reports</title>
+
+<html>
+<head>
+    <title>Technical Reports</title>
+    <style>
+        .author {
+            color: purple;
+        }
+    </style>
+</head>
         <li>
             <span class="author"><strong>N. Nigar</strong></span>, Aeroacoustics simulation of a fan inside an outdoor air conditioner unit using Cradle CFD and Actran, Hexagon Manufacturing Intelligence, (2023)
             [<a href="path_to_your_pdf_file4.pdf" target="_blank">PDF</a>]
