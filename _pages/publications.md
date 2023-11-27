@@ -9,7 +9,7 @@ author_profile: true
 ## Conference Papers
 
 1. **Thermo-Fluid Structure Interaction of an Electric Bulb using MSC CoSim**
-   - *Authors:* [Nuza Nigar]((https://www.linkedin.com/in/nuzanigar/)), [V. Palahalli, G. Pawar, T. Praphu]
+   - *Authors:* Nuza Nigar, V. Palahalli, G. Pawar, T. Praphu
    - *Conference:* SAROD (Symposium on Applied Aerodynamics and Design of Aerospace Vehicles,Hyderabad, India)
    - *Publication Year:* 2023
    - *Link:* [Paper Link]((https://drive.google.com/file/d/1KMYm4BYeMNOBViJ0SuU96mo9-1NdbSuE/view?usp=sharing))
