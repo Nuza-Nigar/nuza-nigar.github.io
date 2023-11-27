@@ -5,9 +5,6 @@ permalink: /teaching/2015-spring-teaching-2
 ---
 
 <div class="article">
-    <div class="thumbnail">
-        <img src="https://www.linkedin.com/posts/nuzanigar_adityal1-isro-solarmission-activity-7104422203214991362-PcXW?utm_source=share&utm_medium=member_desktop" alt="Article 1 Thumbnail">
-    </div>
     <div class="article-info">
         <h2>Solar Sojourn: The Aditya L1 Odyssey</h2>
     </div>
@@ -15,9 +12,6 @@ permalink: /teaching/2015-spring-teaching-2
 </div>
 
 <div class="article">
-    <div class="thumbnail">
-        <img src="https://www.linkedin.com/posts/nuzanigar_cfdanalysis-numericalsimulation-fluidflow-activity-7117127670194126848-pGLG?utm_source=share&utm_medium=member_desktop" alt="Article 2 Thumbnail">
-    </div>
     <div class="article-info">
         <h2>Is Discretization Error Haunting Your CFD Simulations?</h2>
     </div>
@@ -25,9 +19,6 @@ permalink: /teaching/2015-spring-teaching-2
 </div>
 
 <div class="article">
-    <div class="thumbnail">
-        <img src="https://www.linkedin.com/posts/nuzanigar_openscience-computationalfluidynamics-innovationincfd-activity-7125034915963813890-3f4K?utm_source=share&utm_medium=member_desktop" alt="Article 3 Thumbnail">
-    </div>
     <div class="article-info">
         <h2>The Transformative Impact of Open Source in Computational Fluid Dynamics (CFD)</h2>
     </div>
