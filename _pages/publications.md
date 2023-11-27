@@ -23,11 +23,11 @@ author_profile: true
             [<a href="path_to_your_pdf_file1.pdf" target="_blank">PDF</a>]
         </li>
         <li>
-            <span class="author"><strong>G. Pawar</strong></span>, <span class="author"><strong>N. Nigar</strong></span>, T. Praphul, K. Sundarraj, Prediction Of Store Separation Trajectories Of The Eglin Test Model Using Cradle CFD, 4th International Conference on Recent Advancements in Mechanical Engineering, Silchar, India, (2023)
+            G. Pawar, <span class="author"><strong>N. Nigar</strong></span>, T. Praphul, K. Sundarraj, Prediction Of Store Separation Trajectories Of The Eglin Test Model Using Cradle CFD, 4th International Conference on Recent Advancements in Mechanical Engineering, Silchar, India, (2023)
             [<a href="path_to_your_pdf_file2.pdf" target="_blank">PDF</a>]
         </li>
         <li>
-            <span class="author"><strong>V. Palahalli</strong></span>, G. Pawar, <span class="author"><strong>N. Nigar</strong></span>, T. Praphul, Numerical Investigation to study the effects of wing flexibility on the store trajectory using MSC CoSim, 9th International and 49th National Conference on Fluid Mechanics and Fluid Power, Roorkee, India (2022)
+           V. Palahalli, G. Pawar, <span class="author"><strong>N. Nigar</strong></span>, T. Praphul, Numerical Investigation to study the effects of wing flexibility on the store trajectory using MSC CoSim, 9th International and 49th National Conference on Fluid Mechanics and Fluid Power, Roorkee, India (2022)
             [<a href="path_to_your_pdf_file3.pdf" target="_blank">PDF</a>]
         </li>
         <li>
