@@ -1,20 +1,8 @@
 ---
-title: "Teaching experience 1"
+title: "Electronics Thermal Management"
 collection: teaching
-type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7048556358136205312" height="1114" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
