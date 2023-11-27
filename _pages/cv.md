@@ -10,6 +10,6 @@ redirect_from:
 {% include base_path %}
 
 
-<script>
-  window.location.href = "https://mohd-afeef-badri.github.io/online-resume/";
-</script>
+Download my CV here. 
+<a href="https://drive.google.com/file/d/1yhCjust3_nqV7mKPB9CHXRUVagJmXY8Y/view?usp=sharing" target="_blank" rel="noopener noreferrer"><button>Download CV</button></a>
+
