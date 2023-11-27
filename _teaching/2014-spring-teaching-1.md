@@ -4,6 +4,9 @@ collection: teaching
 permalink: /teaching/2014-spring-teaching-1
 ---
 
+![Cradle CFD](/images/Cradle_CFD_C016B_01.png)
+
+
 ## Electronics Thermal Management
 
 <iframe style="border: 1px solid #ccc;" src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7048556358136205312" height="1114" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
