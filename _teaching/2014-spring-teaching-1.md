@@ -3,10 +3,7 @@ title: "Cradle CFD Software Applications"
 collection: teaching
 permalink: /teaching/2014-spring-teaching-1
 ---
-
 <img src="/images/Cradle_CFD_C016B_01.png" alt="Alt Text" width="150" height="200">
-
-
 ## Electronics Thermal Management
 
 <iframe style="border: 1px solid #ccc;" src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7048556358136205312" height="1114" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
