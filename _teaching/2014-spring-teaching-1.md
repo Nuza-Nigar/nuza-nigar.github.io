@@ -1,5 +1,7 @@
 ---
 title: "Cradle CFD Software Applications"
+![image](https://github.com/Nuza-Nigar/nuza-nigar.github.io/assets/150617190/c3b0535d-341e-4e71-b6a8-077ebf30f7b5)
+
 collection: teaching
 permalink: /teaching/2014-spring-teaching-1
 ---
