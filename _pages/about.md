@@ -1,4 +1,3 @@
----
 permalink: /
 title: "Nuza Nigar's Journey in Computational Fluid Dynamics"
 excerpt: "About me"
@@ -6,10 +5,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
-
----
-
 ---
 
 <kbd style="font-size: 2em; padding: 0.5em 1em; border: 2px solid #000; border-radius: 5px;">Navigating Fluid Frontiers</kbd>
@@ -28,8 +23,18 @@ My journey embodies a passion for excellence, an unyielding pursuit of innovatio
 
 Ready to dive deeper into this exhilarating world with me? Feel free to explore more about my work, experiences, and the captivating realm of fluid dynamics right here on my website! 
 
+## LinkedIn Embedded Posts
 
+<div style="float: right; margin-left: 20px;">
+  <script src="https://platform.linkedin.com/in.js" type="text/javascript">
+    lang: en_US
+  </script>
+  <script type="IN/EmbeddedPost" data-id="6976578114235629568-r5GF/?utm_source=share&utm_medium=member_desktop"></script>
+</div>
 
-
-
-
+<div style="float: right;">
+  <script src="https://platform.linkedin.com/in.js" type="text/javascript">
+    lang: en_US
+  </script>
+  <script type="IN/EmbeddedPost" data-id="post2"></script>
+</div>
