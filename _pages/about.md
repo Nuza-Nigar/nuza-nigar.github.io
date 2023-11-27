@@ -7,6 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+# CFD
+---
+
+<kbd style="font-size: 2em; padding: 0.5em 1em; border: 2px solid #000; border-radius: 5px;">CFD</kbd>
+
 👋 Hello there and a warm welcome to my corner of the web!
 
 I'm Nuza Nigar, hailing from the vibrant city of Bangalore, India. As a Computational Fluid Dynamics Analyst, I've delved deep into the world of fluid dynamics and thermal mechanics. My academic path has been paved with achievements, securing top ranks in both my Bachelor’s and Master’s degrees, setting the stage for an exciting journey ahead.
@@ -20,5 +26,7 @@ My toolkit? Well, it's packed with expertise in ANSYS, Cradle CFD, FORTRAN, LaTe
 My journey embodies a passion for excellence, an unyielding pursuit of innovation, and a dedication to push beyond the known boundaries in the world of Computational Fluid Dynamics.
 
 Ready to dive deeper into this exhilarating world with me? Feel free to explore more about my work, experiences, and the captivating realm of fluid dynamics right here on my website! 
+
+
 
 
