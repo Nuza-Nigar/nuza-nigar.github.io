@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             :
-  avatar           : "profile.png"
-  bio              : "Researcher / Engineer / Learnohorlic"
+  avatar           : "images/Nuza.jpg"
+  bio              : "Fluid Dynamics Innovator"
   location         :
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=gZyo6egAAAAJ&hl=en"
-  email            : "mohd-afeef.badri@outlook.ccom"
-  researchgate     : "https://www.researchgate.net/profile/Mohd-Afeef-Badri"
+  googlescholar    : 
+  email            : "nigar.nuza@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Nuza_Nigar"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mohd-afeef-badri"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         :"https://www.linkedin.com/in/nuzanigar/"
   orcid            :
   pinterest        :
   soundcloud       :
