@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+---
+
+---
 
 <kbd style="font-size: 2em; padding: 0.5em 1em; border: 2px solid #000; border-radius: 5px;">Navigating Fluid Frontiers</kbd>
 
@@ -24,6 +27,8 @@ My toolkit? Well, it's packed with expertise in ANSYS, Cradle CFD, FORTRAN, LaTe
 My journey embodies a passion for excellence, an unyielding pursuit of innovation, and a dedication to push beyond the known boundaries in the world of Computational Fluid Dynamics.
 
 Ready to dive deeper into this exhilarating world with me? Feel free to explore more about my work, experiences, and the captivating realm of fluid dynamics right here on my website! 
+
+
 
 
 
