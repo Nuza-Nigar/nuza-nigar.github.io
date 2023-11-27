@@ -15,13 +15,13 @@ author_profile: true
    - *Link:* [Paper Link](https://drive.google.com/file/d/1KMYm4BYeMNOBViJ0SuU96mo9-1NdbSuE/view?usp=sharing)
 
 2. **Prediction Of Store Separation Trajectories Of The Eglin Test Model Using Cradle CFD**
-   - *Authors:* <span style="color: green;">[G. Pawar, N. Nigar, T. Praphul, K. Sundarraj]</span>
+   - *Authors:* <span style="color: green;">G. Pawar, N. Nigar, T. Praphul, K. Sundarraj</span>
    - *Conference:* 4th International Conference on Recent Advancements in Mechanical Engineering, Silchar, India
    - *Year:* 2023
    - *Link:* [Paper Link](https://drive.google.com/file/d/10wZ1xBLGxi0vLlwZvn4I_i7OPzMm8ZVW/view?usp=sharing)
 
 3. **Numerical Investigation to Study the Effects of Wing Flexibility on the Store Trajectory using MSC CoSim**
-   - *Authors:* <span style="color: green;">[V. Palahalli, G. Pawar, N. Nigar, T. Praphul]</span>
+   - *Authors:* <span style="color: green;">V. Palahalli, G. Pawar, N. Nigar, T. Praphul</span>
    - *Conference:* 9th International and 49th National Conference on Fluid Mechanics and Fluid Power, Roorke, India
    - *Year:* 2022
    - *Link:* [Paper Link](https://drive.google.com/file/d/1ucx_eYEUV4-YVnd72xhoE30V3ySypOjs/view?usp=sharing)
