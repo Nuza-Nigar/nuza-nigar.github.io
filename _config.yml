@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nuza Nigar"
+title                    : "Dr. Mohd Afeef Badri"
 title_separator          : "-"
-name                     : &name "Nuza Nigar"
+name                     : &name "Mohd Afeef Badri"
 description              : &description "personal description"
-url                      : "https://nuza-nigar.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mohd-afeef-badri.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nuza-nigar/nuza-nigar.github.io"
+repository               : "mohd-afeef-badri/mohd-afeef-badri.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             :
-  avatar           : "images/Nuza.jpg"
-  bio              : "Fluid Dynamics Innovator"
+  avatar           : "profile.png"
+  bio              : "Researcher / Engineer / Learnohorlic"
   location         :
   employer         :
   pubmed           :
-  googlescholar    : 
-  email            : "nigar.nuza@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Nuza_Nigar"
+  googlescholar    : "https://scholar.google.com/citations?user=gZyo6egAAAAJ&hl=en"
+  email            : "mohd-afeef.badri@outlook.ccom"
+  researchgate     : "https://www.researchgate.net/profile/Mohd-Afeef-Badri"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "mohd-afeef-badri"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/nuzanigar"
+  linkedin         :
   orcid            :
   pinterest        :
   soundcloud       :
