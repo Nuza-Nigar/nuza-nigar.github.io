@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-# Publications
 
 ## Conference Papers
 
@@ -26,7 +25,7 @@ author_profile: true
    - *Year:* 2022
    - *Link:* [Paper Link](https://drive.google.com/file/d/1ucx_eYEUV4-YVnd72xhoE30V3ySypOjs/view?usp=sharing)
 
-
+---
 
 ## Technical Reports
 
