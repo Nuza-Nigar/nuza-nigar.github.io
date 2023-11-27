@@ -1,7 +1,7 @@
 ---
 title: "My LinkedIn Articles"
 collection: teaching
-permalink: /teaching/2015-spring-teaching-2.md
+permalink: /teaching/2015-spring-teaching-2
 ---
 
 <div class="article">
