@@ -1,9 +1,10 @@
 ---
 layout: archive
-title: "Publications"
+title: 
 permalink: /publications/
 author_profile: true
 ---
+<kbd style="font-size: 2em; padding: 0.5em 1em; border: 2px solid #000; border-radius: 5px;">Publications</kbd>
 
 ## Conference Papers
 
