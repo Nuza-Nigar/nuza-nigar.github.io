@@ -44,8 +44,10 @@ author_profile: true
 
 ## Thesis
 
-**Benchmarking of Cradle CFD Software to Predict Store Separation Trajectory Using Eglin Test Model and The Prediction of Onset of Flutter and The Transonic Dip using BSCW Wing**
+1. **Master's Thesis**
+   **Benchmarking of Cradle CFD Software to Predict Store Separation Trajectory Using Eglin Test Model and The Prediction of Onset of Flutter and The Transonic Dip using BSCW Wing**
    - *Authors:* <span style="color: purple;">N. Nigar</span>
    - *Year:* May, 2022
    - *Link:* [Paper Link](https://docs.google.com/document/d/1F6-tzvG7qZTbxIMaGrHi4lOS5JZ0UP5n/edit?usp=sharing&ouid=115249795474572938960&rtpof=true&sd=true)
+
 
