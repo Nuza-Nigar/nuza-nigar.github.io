@@ -51,4 +51,10 @@ author_profile: true
    - *Year:* May, 2022
    - *Link:* [Paper Link](https://docs.google.com/document/d/1F6-tzvG7qZTbxIMaGrHi4lOS5JZ0UP5n/edit?usp=sharing&ouid=115249795474572938960&rtpof=true&sd=true)
 
+   ![Prediction of the Onset of Flutter Boundary and the Transonic Dip using BSCW Wing](images/thesis 1.PNG)
+
+   ---
+
+   ![Prediction of Store Separation Trajectories using the Eglin Test Model](images/thesis 2.PNG)
+
 
