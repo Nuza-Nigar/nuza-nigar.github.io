@@ -42,6 +42,8 @@ author_profile: true
    - *Authors:* <span style="color: purple;">N. Nigar</span>
    - *Year:* 2023
 
+---
+
 ## Thesis
 
 1. **Master's Thesis**
