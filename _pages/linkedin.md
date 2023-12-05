@@ -1,12 +1,11 @@
 ---
 permalink: /
-title: 
-excerpt: 
+title: Welcome to My LinkedIn Profile
+excerpt: Welcome to my professional space on LinkedIn.
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-<kbd style="font-size: 2em; padding: 0.5em 1em; border: 2px solid #000; border-radius: 5px;">My LinkedIn Engagegements</kbd>
-
+<kbd style="font-size: 2em; padding: 0.5em 1em; border: 2px solid #000; border-radius: 5px;">Welcome to my LinkedIn Profile</kbd>
