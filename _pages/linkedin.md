@@ -8,23 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-<!DOCTYPE html>
-<html>
-<head>
-  <title>My LinkedIn Profile</title>
-</head>
-<body>
-  <header>
-    <h1>Welcome to my LinkedIn Profile</h1>
-  </header>
-  <section>
-    <article>
-      <p>Thank you for visiting my LinkedIn profile. I am excited to connect and engage with professionals in the industry. Feel free to explore my experience, skills, and achievements. Let's connect and grow together!</p>
-    </article>
-  </section>
-  <footer>
-    <p>© 2023 MyLinkedInProfile. All rights reserved.</p>
-  </footer>
-</body>
-</html>
+<kbd style="font-size: 2em; padding: 0.5em 1em; border: 2px solid #000; border-radius: 5px;">My LinkedIn Engagegements</kbd>
 
