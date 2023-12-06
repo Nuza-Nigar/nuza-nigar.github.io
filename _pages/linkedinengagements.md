@@ -1,4 +1,12 @@
 
+---
+layout: archive
+title: 
+permalink: /linkedinengagements/
+author_profile: true
+
+---
+
 ## My Linked Posts on Cradle CFD Applications
 
 <img src="/images/Cradle_CFD_C016B_01.png" alt="Alt Text" width="150" height="200">
