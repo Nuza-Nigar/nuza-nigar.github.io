@@ -6,50 +6,49 @@ author_profile: true
 redirect_from:
   - /linkedinengagements
 ---
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Italicized Content</title>
-  <style>
-    /* Style for italicized text */
-    .italicized {
-      font-style: italic;
-    }
-  </style>
-</head>
-<body>
-  <p class="italicized">During my tenure as a CFD Expert at Hexagon Manufacturing Intelligence, I also undertook the responsibility of advocating for Cradle CFD, both in the commercial and academic spheres. Recognizing the significance of enhancing awareness about this software and its manifold advantages, I embarked on a mission to propel its usage. My efforts encompassed a strategic blend of marketing strategies tailored to showcase Cradle CFD's potential in driving innovation and problem-solving across various industries and academic institutions. Leveraging LinkedIn as a key platform, my postings played a pivotal role in amplifying awareness and drawing attention to the software's capabilities. This proactive approach not only garnered a substantial influx of leads but also significantly heightened the visibility and appreciation of Cradle CFD within the targeted market segments, fostering its recognition as a powerful tool for simulation and analysis.</p>
-</body>
-</html>
 
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Centered Image on GitHub Page</title>
+  <title>Centered Content</title>
   <style>
-    /* Style for centering the image */
+    /* Style for centered alignment */
     body {
       display: flex;
       justify-content: center;
       align-items: center;
       height: 100vh; /* Set height to full viewport height */
       margin: 0; /* Remove default margins */
+      text-align: center; /* Center align text */
+    }
+    
+    /* Style for italicized text */
+  .italicized {
+      font-style: italic;
+    }
+    
+    /* Style for the post container */
+   .post-container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
     }
 
-    /* Style for the image */
-    .centered-image {
-      max-width: 150px; /* Set the maximum width of the image */
-      max-height: 200px; /* Set the maximum height of the image */
+    /* Style for individual post cards */
+  .post-card {
+      border: 1px solid #ccc;
+      padding: 20px;
+      width: calc(50% - 20px); /* 2 posts in a row */
+      text-align: center; /* Center align text in post cards */
     }
   </style>
 </head>
 <body>
-  <!-- Image to be centered -->
-  <img class="centered-image" src="/images/Cradle_CFD_C016B_01.png" alt="Alt Text" width="150" height="200">
-</body>
-</html>
+  <!-- Content in italics -->
+  <p class="italicized">During my tenure as a CFD Expert at Hexagon Manufacturing Intelligence, I also undertook the responsibility of advocating for Cradle CFD, both in the commercial and academic spheres. Recognizing the significance of enhancing awareness about this software and its manifold advantages, I embarked on a mission to propel its usage. My efforts encompassed a strategic blend of marketing strategies tailored to showcase Cradle CFD's potential in driving innovation and problem-solving across various industries and academic institutions. Leveraging LinkedIn as a key platform, my postings played a pivotal role in amplifying awareness and drawing attention to the software's capabilities. This proactive approach not only garnered a substantial influx of leads but also significantly heightened the visibility and appreciation of Cradle CFD within the targeted market segments, fostering its recognition as a powerful tool for simulation and analysis.</p>
 
-## If you're interested, I invite you to explore the LinkedIn post created by me to discover more about Cradle CFD's impact and capabilities.
+  <!-- If you're interested invitation -->
+  <p>If you're interested, I invite you to explore the LinkedIn post created by me to discover more about Cradle CFD's impact and capabilities.</p>
 
 <!-- Post Begins Down here -->
 <html lang="en">
