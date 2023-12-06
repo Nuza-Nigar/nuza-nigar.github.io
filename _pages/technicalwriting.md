@@ -13,28 +13,48 @@ redirect_from:
 <span style="color:purple; font-weight: bold;">Check out My LinkedIn Articles!</span>
 
 ---
+<!-- Post Begins Down here -->
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Embedded Posts</title>
+  <style>
+    /* Style for the post container */
+    .post-container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+    }
 
-<div class="article">
-    <div class="article-info">
-        <h2>1. Solar Sojourn: The Aditya L1 Odyssey</h2>
+    /* Style for individual post cards */
+  .post-card {
+      border: 1px solid #ccc;
+      padding: 20px;
+      width: calc(50% - 20px); /* 2 posts in a row */
+    }
+  </style>
+</head>
+<body>
+  <!-- Container for the posts -->
+  <div class="post-container">
+    <!-- Post 1 -->
+    <div class="post-card">
+      <h2>1. Solar Sojourn: The Aditya L1 Odyssey</h2>
+      <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7104422202749423616" height="444" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
     </div>
-    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7104422202749423616" height="444" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-</div>
-
----
-
-<div class="article">
-    <div class="article-info">
-        <h2>2. Is Discretization Error Haunting Your CFD Simulations?</h2>
+    
+    <!-- Post 2 -->
+  <div class="post-card">
+      <h2>2. Is Discretization Error Haunting Your CFD Simulations?</h2>
+      <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7117127669732757504" height="675" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
     </div>
-    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7117127669732757504" height="675" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-</div>
 
----
-
-<div class="article">
-    <div class="article-info">
-        <h2>3. The Transformative Impact of Open Source in Computational Fluid Dynamics (CFD)</h2>
+    <!-- Post 3 -->
+  <div class="post-card">
+      <h2>3. The Transformative Impact of Open Source in Computational Fluid Dynamics (CFD)</h2>
+      <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7125034915418570753" height="655" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
     </div>
-    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7125034915418570753" height="655" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-</div>
+  </div>
+</body>
+</html>
+
