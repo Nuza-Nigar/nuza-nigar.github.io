@@ -29,8 +29,12 @@ redirect_from:
     /* Style for individual post cards */
   .post-card {
       border: 1px solid #ccc;
-      padding: 20px;
-      width: calc(50% - 20px); /* 2 posts in a row */
+      padding: 0; /* Remove default padding */
+      width: calc(50% - 2px); /* Adjust width to account for borders */
+    }
+
+   .post-card > * {
+      padding: 20px; /* Apply padding to inner elements */
     }
   </style>
 </head>
@@ -44,17 +48,18 @@ redirect_from:
     </div>
     
     <!-- Post 2 -->
-  <div class="post-card">
+   <div class="post-card">
       <h2>2. Is Discretization Error Haunting Your CFD Simulations?</h2>
       <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7117127669732757504" height="675" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
     </div>
 
     <!-- Post 3 -->
-  <div class="post-card">
+   <div class="post-card">
       <h2>3. The Transformative Impact of Open Source in Computational Fluid Dynamics (CFD)</h2>
       <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7125034915418570753" height="655" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
     </div>
   </div>
 </body>
 </html>
+
 
