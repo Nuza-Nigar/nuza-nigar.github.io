@@ -1,11 +1,12 @@
-
 ---
 layout: archive
 title: 
 permalink: /linkedinengagements/
 author_profile: true
-
+redirect_from:
+  - /linkedinengagements
 ---
+
 
 ## My Linked Posts on Cradle CFD Applications
 
