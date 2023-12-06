@@ -114,5 +114,13 @@ Cradle CFD, a computational fluid dynamics (CFD) software suite, stands as an in
       <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7082631548994277376" height="400" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
     </div>
   </div>
+  <script>
+    // JavaScript to generate random border colors for each post card
+    const postCards = document.querySelectorAll('.post-card');
+    postCards.forEach(card => {
+      const randomColor = '#' + Math.floor(Math.random() * 16777215).toString(16); // Generate random hex color
+      card.style.borderColor = randomColor; // Apply random color to border
+    });
+  </script>
 </body>
 </html>
