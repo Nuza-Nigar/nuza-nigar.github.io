@@ -6,38 +6,48 @@ author_profile: true
 redirect_from:
   - /linkedinengagements
 ---
-
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Centered Image in Rectangular Box</title>
+  <title>Italicized Content</title>
   <style>
-    /* Style for the rectangular box */
-    .image-container {
-      width: 300px; /* Set the width of the container */
-      height: 400px; /* Set the height of the container */
-      background-color: black; /* Set the background color */
-      display: flex;
-      justify-content: center;
-      align-items: center;
-    }
-
-    /* Style for the image */
-    .centered-image {
-      max-width: 100%; /* Ensure image doesn't exceed container width */
-      max-height: 100%; /* Ensure image doesn't exceed container height */
+    /* Style for italicized text */
+    .italicized {
+      font-style: italic;
     }
   </style>
 </head>
 <body>
-  <!-- Container for the image -->
-  <div class="image-container">
-    <img class="centered-image" src="/images/Cradle_CFD_C016B_01.png" alt="Alt Text" width="150" height="200">
-  </div>
+  <p class="italicized">During my tenure as a CFD Expert at Hexagon Manufacturing Intelligence, I also undertook the responsibility of advocating for Cradle CFD, both in the commercial and academic spheres. Recognizing the significance of enhancing awareness about this software and its manifold advantages, I embarked on a mission to propel its usage. My efforts encompassed a strategic blend of marketing strategies tailored to showcase Cradle CFD's potential in driving innovation and problem-solving across various industries and academic institutions. Leveraging LinkedIn as a key platform, my postings played a pivotal role in amplifying awareness and drawing attention to the software's capabilities. This proactive approach not only garnered a substantial influx of leads but also significantly heightened the visibility and appreciation of Cradle CFD within the targeted market segments, fostering its recognition as a powerful tool for simulation and analysis.</p>
 </body>
 </html>
 
-During my tenure as a CFD Expert at Hexagon Manufacturing Intelligence, I also undertook the responsibility of advocating for Cradle CFD, both in the commercial and academic spheres. Recognizing the significance of enhancing awareness about this software and its manifold advantages, I embarked on a mission to propel its usage. My efforts encompassed a strategic blend of marketing strategies tailored to showcase Cradle CFD's potential in driving innovation and problem-solving across various industries and academic institutions. Leveraging LinkedIn as a key platform, my postings played a pivotal role in amplifying awareness and drawing attention to the software's capabilities. This proactive approach not only garnered a substantial influx of leads but also significantly heightened the visibility and appreciation of Cradle CFD within the targeted market segments, fostering its recognition as a powerful tool for simulation and analysis. 
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Centered Image on GitHub Page</title>
+  <style>
+    /* Style for centering the image */
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh; /* Set height to full viewport height */
+      margin: 0; /* Remove default margins */
+    }
+
+    /* Style for the image */
+    .centered-image {
+      max-width: 150px; /* Set the maximum width of the image */
+      max-height: 200px; /* Set the maximum height of the image */
+    }
+  </style>
+</head>
+<body>
+  <!-- Image to be centered -->
+  <img class="centered-image" src="/images/Cradle_CFD_C016B_01.png" alt="Alt Text" width="150" height="200">
+</body>
+</html>
 
 ## If you're interested, I invite you to explore the LinkedIn post created by me to discover more about Cradle CFD's impact and capabilities.
 
