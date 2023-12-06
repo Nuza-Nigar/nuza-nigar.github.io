@@ -41,36 +41,7 @@ During my tenure as a CFD Expert at Hexagon Manufacturing Intelligence, I also u
 
 ## If you're interested, I invite you to explore the LinkedIn post created by me to discover more about Cradle CFD's impact and capabilities.
 
-<!-- LinkedIn Heading -->
-
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>LinkedIn Post with Styled Arrow</title>
-  <style>
-    /* Style for the rectangular box */
-    .post-container {
-      width: 500px; /* Set the width of the container */
-      height: 300px; /* Set the height of the container */
-      background-color: black; /* Set the background color */
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      color: skyblue; /* Set the color for the arrow */
-      font-size: 50px; /* Set the font size */
-    }
-  </style>
-</head>
-<body>
-  <!-- Container for the LinkedIn post with arrow -->
-  <div class="post-container">
-    <p>&#8594; <strong>Check out our latest updates!</strong> &#8592;</p>
-  </div>
-</body>
-</html>
-
 <!-- Post Begins Down here -->
-
 <html lang="en">
 <head>
   <meta charset="UTF-8">
