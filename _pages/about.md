@@ -18,6 +18,6 @@ redirect_from:
 
 <span style="color:purple">*My toolkit? Well, it's packed with expertise in ANSYS, Cradle CFD, FORTRAN, LaTeX, and more. These tools have been instrumental in shaping my academic achievements and earning prestigious accolades that underscore my commitment to propelling the frontiers of Computational Fluid Dynamics. My journey embodies a passion for excellence, an unyielding pursuit of innovation, and a dedication to push beyond the known boundaries in the world of Computational Fluid Dynamics.*</span>
 
-Ready to dive deeper into this exhilarating world with me? Feel free to explore more about my work, experiences, and the captivating realm of fluid dynamics right here on my website! 
+<span style="color:pink">*Ready to dive deeper into this exhilarating world with me? Feel free to explore more about my work, experiences, and the captivating realm of fluid dynamics right here on my website!*</span>
 
 
