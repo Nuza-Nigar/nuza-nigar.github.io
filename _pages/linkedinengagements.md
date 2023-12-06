@@ -7,10 +7,69 @@ redirect_from:
   - /linkedinengagements
 ---
 
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Centered Image in Rectangular Box</title>
+  <style>
+    /* Style for the rectangular box */
+    .image-container {
+      width: 300px; /* Set the width of the container */
+      height: 400px; /* Set the height of the container */
+      background-color: black; /* Set the background color */
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
 
-<img src="/images/Cradle_CFD_C016B_01.png" alt="Alt Text" width="150" height="200">
+    /* Style for the image */
+    .centered-image {
+      max-width: 100%; /* Ensure image doesn't exceed container width */
+      max-height: 100%; /* Ensure image doesn't exceed container height */
+    }
+  </style>
+</head>
+<body>
+  <!-- Container for the image -->
+  <div class="image-container">
+    <img class="centered-image" src="/images/Cradle_CFD_C016B_01.png" alt="Alt Text" width="150" height="200">
+  </div>
+</body>
+</html>
 
-Cradle CFD, a computational fluid dynamics (CFD) software suite, stands as an invaluable tool in the realm of engineering and scientific simulations. Offering a robust platform, it empowers engineers and researchers to simulate and analyze fluid flow, heat transfer, and other complex phenomena in diverse industries, from automotive and aerospace to energy and environmental studies. Cradle CFD's versatility lies in its ability to handle intricate fluid dynamics problems, providing a comprehensive range of modeling options, solver capabilities, and post-processing tools. Its user-friendly interface, coupled with powerful simulation capabilities, facilitates the exploration of intricate flow behaviors, aiding in the design optimization process and enhancing our understanding of fluid dynamics intricacies across various applications. Whether addressing aerodynamic challenges, thermal management complexities, or optimizing energy efficiency, Cradle CFD remains at the forefront, empowering innovation and advancements in fluid dynamics research and engineering design.
+During my tenure as a CFD Expert at Hexagon Manufacturing Intelligence, I also undertook the responsibility of advocating for Cradle CFD, both in the commercial and academic spheres. Recognizing the significance of enhancing awareness about this software and its manifold advantages, I embarked on a mission to propel its usage. My efforts encompassed a strategic blend of marketing strategies tailored to showcase Cradle CFD's potential in driving innovation and problem-solving across various industries and academic institutions. Leveraging LinkedIn as a key platform, my postings played a pivotal role in amplifying awareness and drawing attention to the software's capabilities. This proactive approach not only garnered a substantial influx of leads but also significantly heightened the visibility and appreciation of Cradle CFD within the targeted market segments, fostering its recognition as a powerful tool for simulation and analysis. 
+
+## If you're interested, I invite you to explore the LinkedIn post created by me to discover more about Cradle CFD's impact and capabilities.
+
+<!-- LinkedIn Heading -->
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>LinkedIn Post with Styled Arrow</title>
+  <style>
+    /* Style for the rectangular box */
+    .post-container {
+      width: 500px; /* Set the width of the container */
+      height: 300px; /* Set the height of the container */
+      background-color: black; /* Set the background color */
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: skyblue; /* Set the color for the arrow */
+      font-size: 50px; /* Set the font size */
+    }
+  </style>
+</head>
+<body>
+  <!-- Container for the LinkedIn post with arrow -->
+  <div class="post-container">
+    <p>&#8594; <strong>Check out our latest updates!</strong> &#8592;</p>
+  </div>
+</body>
+</html>
+
+<!-- Post Begins Down here -->
 
 <html lang="en">
 <head>
@@ -113,14 +172,12 @@ Cradle CFD, a computational fluid dynamics (CFD) software suite, stands as an in
       <h2>Advanced Data Visualization Techniques in Cradle CFD using Volume Rendering in Cradle XR</h2>
       <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7082631548994277376" height="400" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
     </div>
+    
+<!-- Post 14 -->
+  <div class="post-card">
+    <h2>Hypersonic Flow Solver of Cradle CFD</h2>
+    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7067468321079644160" height="400" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+    </div>
   </div>
-  <script>
-    // JavaScript to generate random border colors for each post card
-    const postCards = document.querySelectorAll('.post-card');
-    postCards.forEach(card => {
-      const randomColor = '#' + Math.floor(Math.random() * 16777215).toString(16); // Generate random hex color
-      card.style.borderColor = randomColor; // Apply random color to border
-    });
-  </script>
 </body>
 </html>
