@@ -10,6 +10,3 @@ redirect_from:
 Download my CV here: [Download CV](https://drive.google.com/file/d/1Dnoyv58QJIA4bM7AXxPc9Y4gnJ01iKPa/view?usp=sharing)
 
 
-![First Page](/images/CV1.PNG)      
-![Second Page](/images/CV2.PNG)  
-
