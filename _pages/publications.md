@@ -25,6 +25,13 @@ author_profile: true
    - *Conference:* 9th International and 49th National Conference on Fluid Mechanics and Fluid Power, Roorke, India
    - *Year:* 2022
    - *Link:* [Paper Link](https://drive.google.com/file/d/1ucx_eYEUV4-YVnd72xhoE30V3ySypOjs/view?usp=sharing)
+     
+4. **Simulation of Air Conditioner Outdoor Unit Fan Noise**
+
+    - *Authors:* <span style="color: green;">Sundeep Singh Hunjan, Naman Agarwal, N. Nigar, Aniket Shewale, Vivek</span>
+    - *Conference:* National Symposium on Acoustics 2024, Vishakapatnam, India
+    - *Year:* 2024
+    - *Link:* [Paper Link](https://drive.google.com/file/d/1DA37XHO7yAugllUuHQlxG35rTzL4OKZH/view?usp=sharing)
 
 ---
 
