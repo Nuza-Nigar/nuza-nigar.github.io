@@ -69,3 +69,10 @@ body { background: #f7f8f7; color: #172430; font-family: 'DM Sans', sans-serif; 
 .home-section--dark { max-width: none; padding: 4.7rem max(2rem, calc((100% - 1060px) / 2)); background: #112b3a; }.home-section--dark .eyebrow { color: #86c4c6; }.work-links { border-top: 1px solid rgba(255,255,255,.24); }.work-links a { display: flex; align-items: center; justify-content: space-between; padding: 1.25rem 0; border-bottom: 1px solid rgba(255,255,255,.24); color: #fff !important; font-size: clamp(1.3rem, 2.2vw, 1.8rem); font-weight: 600; text-decoration: none !important; }.work-links a:hover { color: #9ed6d5 !important; }.work-links b { font-size: 1.5rem; font-weight: 400; }
 .contact-strip { display: flex; align-items: center; justify-content: space-between; gap: 2rem; padding-top: 5.25rem; padding-bottom: 5.25rem; }.contact-strip p { margin: 0; color: #42525b; font-size: 1.1rem; }.contact-strip a { color: #112b3a !important; font-family: 'Playfair Display', Georgia, serif; font-size: clamp(1.7rem, 4vw, 2.8rem); font-weight: 600; text-decoration: none !important; }.contact-strip a:hover { color: #087b89 !important; }.contact-strip span { color: #0a7e8c; }
 @media (max-width: 768px) { .page__content .hero { grid-template-columns: 1fr; gap: 2.8rem; padding: 4.2rem 1.65rem 3.6rem; border-radius: 0 0 2rem 2rem; }.hero__portrait-wrap { justify-self: start; width: 220px; }.section-split, .focus-grid { grid-template-columns: 1fr; gap: 1rem; }.home-section { padding: 3.5rem 1.5rem; }.home-section--dark { padding: 3.5rem 1.5rem; }.contact-strip { align-items: flex-start; flex-direction: column; padding: 3.75rem 1.5rem; } }
+
+/* Home page: escape the article column and own the full desktop viewport. */
+.splash { width: 100vw; margin-left: calc(50% - 50vw); }
+.splash .page__content { margin: 0; }
+.splash .hero { min-height: calc(100vh - 75px); margin-top: -2rem; max-width: none; padding: 5.5rem max(5vw, calc((100vw - 1180px) / 2)) 4.5rem; border-radius: 0; }
+.splash .home-section, .splash .contact-strip { max-width: 1180px; }
+@media (max-width: 768px) { .splash .hero { min-height: auto; margin-top: -2rem; padding: 4.2rem 1.65rem 3.6rem; } }
