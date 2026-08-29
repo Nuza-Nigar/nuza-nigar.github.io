@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nuza Nigar"
 title_separator          : "-"
 name                     : &name "Nuza Nigar"
-description              : &description "personal description"
+description              : &description "Computational fluid dynamics engineer and researcher in Paris."
 url                      : https://nuza-nigar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Nuza-Nigar/nuza-nigar.github.io"
@@ -66,8 +66,8 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : Person
+  name                   : Nuza Nigar
   links: # An array of links to social media profiles
 
 
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             :
-  avatar           : "Nuza-Github-Logo.png"
-  bio              : "Fluid Dynamics Innovator"
-  location         :
+  name             : "Nuza Nigar"
+  avatar           : "Nuza.jpg"
+  bio              : "CFD Engineer & Researcher"
+  location         : "Paris, France"
   employer         :
   pubmed           :
   googlescholar    : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "Nuza-Nigar"
   google_plus      :
   keybase          :
   instagram        :
